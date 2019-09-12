@@ -7,4 +7,4 @@ Steps to Compile:
 3. The required dependencies are tracks.txt, words.txt which are already there in the folder.
 4. Just execute python file IR_assignment_final.py
 5. In order to give query call the function get_songs_given_query()
-6. Query will be executed and the desired output will be displayed.
+6. Query will be executed and the desired output will be displayed along with the top 10 populer songs up to date.
